@@ -1,0 +1,25 @@
+{
+  "name": "nodeCreeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cenkaifeng/nodeCreeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cenkaifeng/nodeCreeper/issues"
+  },
+  "homepage": "https://github.com/Cenkaifeng/nodeCreeper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "superagent": "^5.0.5"
+  }
+}
