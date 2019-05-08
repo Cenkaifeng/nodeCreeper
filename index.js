@@ -20,9 +20,12 @@ app.get('/', function (req, res) {
     res.send('Hello World!');
 });
 
+//set key words
 
-let hotNews = [];                                // 热点新闻
-let localNews = [];                              // 本地新闻
+
+//get new 
+let hotNews = [];                                
+let localNews = [];                            
 
 /**
  * index.js
