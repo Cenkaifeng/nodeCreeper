@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Cenkaifeng/nodeCreeper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "superagent": "^5.0.5"
   }
 }
